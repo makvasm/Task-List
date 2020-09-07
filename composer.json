@@ -1,0 +1,13 @@
+{
+    "name": "beejee/test",
+    "type": "project",
+    "require": {
+        "klein/klein": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Maxim Kapralov",
+            "email": "makvasm111@gmail.com"
+        }
+    ]
+}
